@@ -18,3 +18,17 @@ producto = "Monitor de 19 Pulgadas";
 console.log(producto);
 producto = 20;
 console.log(producto);
+
+
+//Se pueden inicializar sin valor y asignarlo después
+var disponible;
+disponible = true;
+
+
+//Inicializar múltiples variables
+var categoria = 'Computadoras';
+var marca = "Marca Famosa";
+var califacion = 5;
+
+
+
